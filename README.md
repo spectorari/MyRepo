@@ -1,2 +1,2 @@
 # MyRepo
-My First Repository
+My Initial Repository
